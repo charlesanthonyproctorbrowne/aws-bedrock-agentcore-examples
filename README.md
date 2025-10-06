@@ -2,9 +2,9 @@
 
 # AWS Bedrock AgentCore Examples
 
-### Production Infrastructure for AI Agents That Actually Ship
+### Simple, Production-Ready Agent Infrastructure
 
-A repository focused on the engineering reality of production AI agents: the security, scalability, and integration work that determines whether agents deliver business value or remain prototypes.
+Progressive examples demonstrating AWS Bedrock AgentCore: a new AWS managed service which removes a lot of the complexities involved in developing and deploying AI Agents. Built ontop of AWS Bedrock so you can utilise foundation models from aws bedrock or custom models from sagemaker as you can with the Bedrock service anyway.
 
 [Quick Start](#quick-start) •
 [Why This Matters](#why-this-matters) •
